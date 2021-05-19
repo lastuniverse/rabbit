@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "up": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "normal": {
+      "frame": {
+        "x": 263,
+        "y": 0,
+        "w": 267,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 267,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 244
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "rabbit.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 530,
+      "h": 275
+    },
+    "scale": 1
+  }
+}

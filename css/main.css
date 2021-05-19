@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Zubilo Black'; /* Имя шрифта */
+    src: url(../fonts/Zubilo.ttf); /* Путь к файлу со шрифтом */
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Zubilo Black';
+}
+
+canvas {
+    padding: 0; 
+    margin: 0;
+    position: "absolute";
+    display: "block";
+}
+
+
+/* P {
+    
+} */
