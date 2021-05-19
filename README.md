@@ -1,5 +1,7 @@
 # тестовое задание на вакансию «HTML5 Game Developer»
 
+[текст задания](https://nordbeaver.atlassian.net/wiki/external/720994660/YTliMTY2MjkzMzNiNDIxYzhjYzg1YmRiZmM3YThiNWI)
+
 ## структура проекта
 
 - `rootdir\` - корневая папка проекта
