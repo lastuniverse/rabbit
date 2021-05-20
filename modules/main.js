@@ -161,7 +161,7 @@ class Main extends ExtendEventEmitter {
             .addToGroup(this.app.stage);
         
 
-        // открывем ворму 'Мои рекорды'
+        // открывем форму 'Мои рекорды'
         this.emit('ui.open.myrecords');
         // this.emit('ui.open.youscore', this.userdata);
         // this.emit('ui.open.leadboard');
@@ -183,9 +183,6 @@ class Main extends ExtendEventEmitter {
         // оповещаем всех слушателей о новой итерации цикла отрисовки
         this.emit('game.update', elapsedMS, multiplier);
     }
-
-
-
 
     // всякое вспомогательное ...
     _getTillingSprite(spriteName, frameName = 0, width, height) {
